@@ -26,3 +26,10 @@ python dormitory_management_system.py --self-test
 - 支持按楼号、房间关键字筛选空余床位。
 - 支持调整字体大小和切换背景颜色。
 - 仅使用 Python 标准库，便于课程环境直接运行。
+
+
+## 样例数据和实物图
+
+仓库已提供 `dormitory_data.csv` 样例住宿数据，直接运行程序即可看到住宿名单。
+
+实物预览图位于 `docs/dormitory_system_preview.svg`，可用浏览器打开查看界面效果。
