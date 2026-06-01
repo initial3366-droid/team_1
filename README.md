@@ -33,3 +33,16 @@ python dormitory_management_system.py --self-test
 仓库已提供 `dormitory_data.csv` 样例住宿数据，直接运行程序即可看到住宿名单。
 
 实物预览图位于 `docs/dormitory_system_preview.svg`，可用浏览器打开查看界面效果。
+
+各方面运行图片已放在 `docs/run_images/`：
+
+- `01_home_roster.svg`：首页住宿名单运行图。
+- `02_vacancy_query.svg`：空余床位查询运行图。
+- `03_search_results.svg`：住宿名单关键词搜索运行图。
+- `04_export_roster.svg`：导出住宿名单运行图。
+
+如需重新生成运行图片，可执行：
+
+```bash
+python docs/generate_run_images.py
+```
