@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="720" viewBox="0 0 1180 720">
+<rect width="1180" height="720" fill="#eef6ff"/>
+<rect x="24" y="20" width="1132" height="680" rx="18" fill="#f8fbff" stroke="#bfdbfe"/>
+<text x="54" y="70" font-size="28" fill="#0f5ea8" font-weight="700">运行图片 1：首页住宿名单</text>
+<text x="54" y="102" font-size="16" fill="#475569" font-weight="400">展示程序启动后读取样例数据的主界面</text>
+<rect x="54" y="130" width="270" height="525" rx="8" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="76" y="166" font-size="20" fill="#111827" font-weight="700">宿舍分配表单</text>
+<text x="76" y="195" font-size="14" fill="#475569" font-weight="700">楼号</text>
+<rect x="130" y="174" width="170" height="30" rx="8" fill="#eff6ff" stroke="#bfdbfe"/>
+<text x="145" y="195" font-size="13" fill="#1f2937" font-weight="400">1号楼</text>
+<text x="76" y="238" font-size="14" fill="#475569" font-weight="700">房间号</text>
+<rect x="130" y="217" width="170" height="30" rx="8" fill="#eff6ff" stroke="#bfdbfe"/>
+<text x="145" y="238" font-size="13" fill="#1f2937" font-weight="400">101</text>
+<text x="76" y="281" font-size="14" fill="#475569" font-weight="700">床位</text>
+<rect x="130" y="260" width="170" height="30" rx="8" fill="#eff6ff" stroke="#bfdbfe"/>
+<text x="145" y="281" font-size="13" fill="#1f2937" font-weight="400">1床</text>
+<text x="76" y="324" font-size="14" fill="#475569" font-weight="700">学号</text>
+<rect x="130" y="303" width="170" height="30" rx="8" fill="#ffffff" stroke="#bfdbfe"/>
+<text x="145" y="324" font-size="13" fill="#1f2937" font-weight="400">20240101</text>
+<text x="76" y="367" font-size="14" fill="#475569" font-weight="700">姓名</text>
+<rect x="130" y="346" width="170" height="30" rx="8" fill="#ffffff" stroke="#bfdbfe"/>
+<text x="145" y="367" font-size="13" fill="#1f2937" font-weight="400">张明</text>
+<text x="76" y="410" font-size="14" fill="#475569" font-weight="700">性别</text>
+<rect x="130" y="389" width="170" height="30" rx="8" fill="#ffffff" stroke="#bfdbfe"/>
+<text x="145" y="410" font-size="13" fill="#1f2937" font-weight="400">男</text>
+<text x="76" y="453" font-size="14" fill="#475569" font-weight="700">专业</text>
+<rect x="130" y="432" width="170" height="30" rx="8" fill="#ffffff" stroke="#bfdbfe"/>
+<text x="145" y="453" font-size="13" fill="#1f2937" font-weight="400">软件工程</text>
+<text x="76" y="496" font-size="14" fill="#475569" font-weight="700">电话</text>
+<rect x="130" y="475" width="170" height="30" rx="8" fill="#ffffff" stroke="#bfdbfe"/>
+<text x="145" y="496" font-size="13" fill="#1f2937" font-weight="400">13800000001</text>
+<rect x="76" y="555" width="224" height="40" rx="8" fill="#2563eb" stroke="#2563eb"/>
+<text x="125" y="581" font-size="16" fill="#ffffff" font-weight="700">分配/更新床位</text>
+<rect x="76" y="608" width="224" height="40" rx="8" fill="#f97316" stroke="#f97316"/>
+<text x="120" y="634" font-size="16" fill="#ffffff" font-weight="700">删除当前床位记录</text>
+<rect x="340" y="130" width="800" height="525" rx="8" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="360" y="153" font-size="18" fill="#1d4ed8" font-weight="700">住宿名单：启动后自动读取 dormitory_data.csv</text>
+<rect x="360" y="165" width="760" height="42" rx="0" fill="#dbeafe" stroke="#bfdbfe"/>
+<text x="378" y="192" font-size="14" fill="#075985" font-weight="700">宿舍位置</text>
+<text x="540" y="192" font-size="14" fill="#075985" font-weight="700">学号</text>
+<text x="670" y="192" font-size="14" fill="#075985" font-weight="700">姓名</text>
+<text x="760" y="192" font-size="14" fill="#075985" font-weight="700">性别</text>
+<text x="830" y="192" font-size="14" fill="#075985" font-weight="700">专业</text>
+<text x="990" y="192" font-size="14" fill="#075985" font-weight="700">电话</text>
+<rect x="360" y="203" width="760" height="34" rx="0" fill="#ffffff" stroke="#d7e3f3"/>
+<text x="378" y="226" font-size="14" fill="#1f2937" font-weight="400">1号楼-101-1床</text>
+<text x="540" y="226" font-size="14" fill="#1f2937" font-weight="400">20240101</text>
+<text x="670" y="226" font-size="14" fill="#1f2937" font-weight="400">张明</text>
+<text x="760" y="226" font-size="14" fill="#1f2937" font-weight="400">男</text>
+<text x="830" y="226" font-size="14" fill="#1f2937" font-weight="400">软件工程</text>
+<text x="990" y="226" font-size="14" fill="#1f2937" font-weight="400">13800000001</text>
+<rect x="360" y="239" width="760" height="34" rx="0" fill="#ffffff" stroke="#d7e3f3"/>
+<text x="378" y="262" font-size="14" fill="#1f2937" font-weight="400">1号楼-101-2床</text>
+<text x="540" y="262" font-size="14" fill="#1f2937" font-weight="400">20240102</text>
+<text x="670" y="262" font-size="14" fill="#1f2937" font-weight="400">李华</text>
+<text x="760" y="262" font-size="14" fill="#1f2937" font-weight="400">男</text>
+<text x="830" y="262" font-size="14" fill="#1f2937" font-weight="400">软件工程</text>
+<text x="990" y="262" font-size="14" fill="#1f2937" font-weight="400">13800000002</text>
+<rect x="360" y="275" width="760" height="34" rx="0" fill="#ffffff" stroke="#d7e3f3"/>
+<text x="378" y="298" font-size="14" fill="#1f2937" font-weight="400">1号楼-102-1床</text>
+<text x="540" y="298" font-size="14" fill="#1f2937" font-weight="400">20240103</text>
+<text x="670" y="298" font-size="14" fill="#1f2937" font-weight="400">王芳</text>
+<text x="760" y="298" font-size="14" fill="#1f2937" font-weight="400">女</text>
+<text x="830" y="298" font-size="14" fill="#1f2937" font-weight="400">人工智能</text>
+<text x="990" y="298" font-size="14" fill="#1f2937" font-weight="400">13800000003</text>
+<rect x="360" y="311" width="760" height="34" rx="0" fill="#ffffff" stroke="#d7e3f3"/>
+<text x="378" y="334" font-size="14" fill="#1f2937" font-weight="400">2号楼-201-3床</text>
+<text x="540" y="334" font-size="14" fill="#1f2937" font-weight="400">20240104</text>
+<text x="670" y="334" font-size="14" fill="#1f2937" font-weight="400">赵强</text>
+<text x="760" y="334" font-size="14" fill="#1f2937" font-weight="400">男</text>
+<text x="830" y="334" font-size="14" fill="#1f2937" font-weight="400">网络工程</text>
+<text x="990" y="334" font-size="14" fill="#1f2937" font-weight="400">13800000004</text>
+<rect x="360" y="347" width="760" height="34" rx="0" fill="#ffffff" stroke="#d7e3f3"/>
+<text x="378" y="370" font-size="14" fill="#1f2937" font-weight="400">2号楼-202-4床</text>
+<text x="540" y="370" font-size="14" fill="#1f2937" font-weight="400">20240105</text>
+<text x="670" y="370" font-size="14" fill="#1f2937" font-weight="400">陈静</text>
+<text x="760" y="370" font-size="14" fill="#1f2937" font-weight="400">女</text>
+<text x="830" y="370" font-size="14" fill="#1f2937" font-weight="400">数据科学</text>
+<text x="990" y="370" font-size="14" fill="#1f2937" font-weight="400">13800000005</text>
+<rect x="360" y="383" width="760" height="34" rx="0" fill="#ffffff" stroke="#d7e3f3"/>
+<text x="378" y="406" font-size="14" fill="#1f2937" font-weight="400">3号楼-301-2床</text>
+<text x="540" y="406" font-size="14" fill="#1f2937" font-weight="400">20240106</text>
+<text x="670" y="406" font-size="14" fill="#1f2937" font-weight="400">刘洋</text>
+<text x="760" y="406" font-size="14" fill="#1f2937" font-weight="400">男</text>
+<text x="830" y="406" font-size="14" fill="#1f2937" font-weight="400">信息安全</text>
+<text x="990" y="406" font-size="14" fill="#1f2937" font-weight="400">13800000006</text>
+<rect x="360" y="419" width="760" height="34" rx="0" fill="#ffffff" stroke="#d7e3f3"/>
+<text x="378" y="442" font-size="14" fill="#1f2937" font-weight="400">3号楼-302-1床</text>
+<text x="540" y="442" font-size="14" fill="#1f2937" font-weight="400">20240107</text>
+<text x="670" y="442" font-size="14" fill="#1f2937" font-weight="400">孙娜</text>
+<text x="760" y="442" font-size="14" fill="#1f2937" font-weight="400">女</text>
+<text x="830" y="442" font-size="14" fill="#1f2937" font-weight="400">物联网工程</text>
+<text x="990" y="442" font-size="14" fill="#1f2937" font-weight="400">13800000007</text>
+<rect x="360" y="455" width="760" height="34" rx="0" fill="#ffffff" stroke="#d7e3f3"/>
+<text x="378" y="478" font-size="14" fill="#1f2937" font-weight="400">4号楼-401-4床</text>
+<text x="540" y="478" font-size="14" fill="#1f2937" font-weight="400">20240108</text>
+<text x="670" y="478" font-size="14" fill="#1f2937" font-weight="400">周杰</text>
+<text x="760" y="478" font-size="14" fill="#1f2937" font-weight="400">男</text>
+<text x="830" y="478" font-size="14" fill="#1f2937" font-weight="400">计算机科学</text>
+<text x="990" y="478" font-size="14" fill="#1f2937" font-weight="400">13800000008</text>
+<text x="360" y="610" font-size="15" fill="#475569" font-weight="400">状态栏：住宿 8 人，剩余床位 760 个</text>
+</svg>
